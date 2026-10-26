@@ -41,3 +41,6 @@ This repository contains LabVIEW projects and VIs developed for BME-495 Bioinstr
 
 #### Lab 2 Block Diagram
 <img width="924" height="955" alt="Lab 2 Block Diagram" src="https://github.com/user-attachments/assets/5154aca9-c115-40b8-b3e2-d56aa32ac2ec" />
+
+#### Lab 2 Front Panel
+<img width="1002" height="942" alt="image" src="https://github.com/user-attachments/assets/936cf6c2-429a-4223-a107-b6c67256ca64" />
